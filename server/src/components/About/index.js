@@ -12,20 +12,16 @@ function About(){
                         <h1 className="about-me-title uk-heading-divider">About Me</h1>
                         <div className = "about-text-container"> 
                             <p>
-                            Hi. My name is Daniel Luke Tanoeihusada and I am a fresh, full-stack web developer. 
-                            For a few years I have been working in a Histology laboratory based 
-                            at the University of Washington Medical Center. 
+                            Hi. My name is Goodwin Amundson and I am a fresh, full-stack web developer. 
+                            For several years I worked as an electrical apprentice in the solar energy industry. 
                             This career has taught me the value of hard work, discipline, and flexibility- the same principles that I try to apply to learning web development.
                             </p>
                             <br></br>
                             <p>
                             Right now, I am finishing the Full-Stack Web Development Bootcamp 
-                            from the University of Washington where I have learned to hone my skills 
-                            to create fully functional web applications- concrete things that I 
-                            did not usually experience in my line of work. I am hoping to put this 
-                            newly-learned skill to good use and land a promising new career as a 
-                            web developer. Change is always scary, but I believe that 
-                            I will brave it through.
+                            from the University of Minnesota where I have learned 
+                            to create fully functional web applications. I am excited to put these skills to good use and land a promising new career as a 
+                            web developer.
                             </p>
                         </div>
                         <div className="uk-text-center uk-text-middle">
