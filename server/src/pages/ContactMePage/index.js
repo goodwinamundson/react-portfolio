@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-import Background from "../../components/Background";
+//import Background from "../../components/Background";
 import imageLink from "../../assets/images/background1.jpg"
 import Navbar from "../../components/Mobile"
 import PageTitle from "../../components/PageTitle"
@@ -8,7 +8,7 @@ import ContactCard from "../../components/ContactCard"
 
 function ContactMePage () {
     return(
-        <Background image = {imageLink}>
+        <body>
             <Navbar />
             <PageTitle 
                 paddingTop = {140}
@@ -17,7 +17,7 @@ function ContactMePage () {
             />
             <ContactCard />
 
-        </Background>
+        </body>
     )
 }
 

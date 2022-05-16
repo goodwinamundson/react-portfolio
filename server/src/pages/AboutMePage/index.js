@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-import Background from "../../components/Background";
+//import Background from "../../components/Background";
 import imageLink from "../../assets/images/background1.jpg"
 import Navbar from "../../components/Mobile"
 import MyName from "../../components/MyName"
@@ -12,7 +12,8 @@ import PageTitle from "../../components/PageTitle"
 
 function AboutMePage () {
     return(
-        <Background image = {imageLink}>
+        // <Background image = {imageLink}>
+        <body>
             <Navbar />
             <MyName />
             <About />
@@ -39,7 +40,8 @@ function AboutMePage () {
 
                 }       
             </Container>
-        </Background>
+            </body>
+        // </Background>
     )
 }
 
