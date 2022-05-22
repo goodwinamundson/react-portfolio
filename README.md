@@ -2,7 +2,7 @@
 
 
   ### Description 
-  My personal portfolio using bootsrap and REACT- an application showcasing my work as a full-stack web developer.
+  My personal portfolio using bootstrap and REACT- an application showcasing my work as a full-stack web developer.
 
 
   ## Table of Contents
@@ -13,7 +13,7 @@
 
 
   ## Usage 
-  The project can be viewed live here
+  The project can be viewed live [here](https://goodwinamundson.github.io/react-portfolio/#/)
 
   Here is a demonstration of how to view the application:
   ![Demo](../react-portfolio/server/src/assets/images/react-app.gif)
