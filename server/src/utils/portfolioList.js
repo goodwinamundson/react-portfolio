@@ -1,6 +1,6 @@
 import Project1Img from "../assets/images/portfolio-images/project1.jpg";
 import Project2Img from "../assets/images/portfolio-images/project2.jpg";
-
+import Project3Img from "../assets/images/portfolio-images/project3.jpg";
 
 function PortfolioList(name, description, img, appLink, githubLink) {
     this.name = name;
@@ -25,10 +25,18 @@ const Project2 = new PortfolioList(
   "https://github.com/goodwinamundson/festivalOfNation"
 );
 
+const Project3 = new PortfolioList(
+  "Dev-Drip",
+  "A n e-commerce site dedicated to dev-related merch. This project was made using the MERN stack and deployed through REACT.",
+  Project3Img,
+  "https://calm-bayou-49842.herokuapp.com/",
+  "https://github.com/goodwinamundson/dev-drip"
+);
 
 
 
 
- let portfolioList = [Project1, Project2];
+
+ let portfolioList = [Project1, Project2, Project3];
 
 export default portfolioList;
